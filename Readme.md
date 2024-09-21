@@ -9,4 +9,5 @@ Este es un proyecto de ejemplo que utiliza varias tecnologías.
 - **JavaScript**: Para la interactividad y funcionalidad del lado del cliente.
 - **Bootstrap**: Para el diseño responsivo y componentes predefinidos.
 - **Git**: Para el control de versiones.
-- **GitHub**: Para alojar el repositorio y colaborar con otros desarrolladores.
+- **GitHub**: Para alojar el repositorio y colaborar con otros desarrolladores. 
+
